@@ -50,7 +50,7 @@ For Software:
 
 # Installation
 1. Clone the repository  
-git clone https://github.com/yourusername/fridge-whisperer-ammachi.git  
+git clone https://github.com/Abijith-vs/fridge-ammachi.git 
 
 2. Navigate into the project folder  
 cd fridge-whisperer-ammachi  
